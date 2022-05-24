@@ -43,7 +43,7 @@ The following are required only for some of the DLWP features:
 
 ### General framework
 
-DLWP is built as a weather forecasting model that can, should performance improve greatly, "replace" and existing global weather or climate model. Essentially, this means that DLWP uses a deep convolutional neural network to map the state of the atmosphere at one time to the entire state of the atmophere at the next available time. A continuous forecast can then be made by feeding the model's predicted state back in as inputs, producing indefinite forecasts.
+DLWP is built as a weather forecasting model that can, should performance improve greatly, "replace" an existing global weather or climate model. Essentially, this means that DLWP uses a deep convolutional neural network to map the state of the atmosphere at one time to the entire state of the atmophere at the next available time. A continuous forecast can then be made by feeding the model's predicted state back in as inputs, producing indefinite forecasts.
 
 ### Data processing
 
